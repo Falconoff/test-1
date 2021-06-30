@@ -4,7 +4,8 @@
     "sources": [
         "main.scss",
         "_example.scss",
-        "_test-1.scss"
+        "_test-1.scss",
+        "_t2.scss"
     ],
     "names": [],
     "file": "main.css"
