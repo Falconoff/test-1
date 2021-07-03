@@ -33,4 +33,51 @@
   color: blue;
   font-size: 38px;
 }
+
+section::after {
+  content: '';
+  display: block;
+  width: 100%;
+  border-bottom: 2px solid #aaa;
+}
+
+.test-2 {
+  color: tomato;
+}
+
+.test-4 {
+  color: gold;
+  text-align: center;
+  font-size: 32px;
+  padding: 30px;
+  display: block;
+  background-color: #00f;
+}
+
+.about {
+  border: 3px solid #000;
+}
+
+.about__title {
+  color: gold;
+}
+
+.about__text {
+  font-size: 32px;
+}
+
+.icon0 {
+  stroke: #00f;
+  fill: gold;
+}
+
+.icon1 {
+  stroke: crimson;
+  fill: crimson;
+}
+
+.icon2 {
+  fill: green;
+  stroke: green;
+}
 /*# sourceMappingURL=main.css.map */
