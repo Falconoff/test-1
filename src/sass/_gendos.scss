@@ -1,0 +1,11 @@
+.test88 {
+  background-color: royalblue;
+  outline: 1px solid red;
+  &__title {
+    color: gray;
+    font-size: 30px;
+  }
+  &__text {
+    color: green;
+  }
+}

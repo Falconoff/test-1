@@ -80,4 +80,22 @@ section::after {
   fill: green;
   stroke: green;
 }
+
+.test-5 {
+  color: red;
+}
+
+.test88 {
+  background-color: royalblue;
+  outline: 1px solid red;
+}
+
+.test88__title {
+  color: gray;
+  font-size: 30px;
+}
+
+.test88__text {
+  color: green;
+}
 /*# sourceMappingURL=main.css.map */
