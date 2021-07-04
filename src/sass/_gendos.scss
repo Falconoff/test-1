@@ -1,0 +1,11 @@
+.test88 {
+  background-color: rgb(221, 207, 149);
+  outline: 1px solid red;
+  &__title {
+    color: gray;
+    font-size: 30px;
+  }
+  &__text {
+    color: rgb(202, 183, 41);
+  }
+}
