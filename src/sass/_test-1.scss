@@ -9,3 +9,15 @@ section::after {
   width: 100%;
   border-bottom: 2px solid #aaa;
 }
+
+.program__first-list-item {
+  font-size: 18px;
+  font-weight: 500;
+  color: green;
+}
+.program__second-list-item {
+  color: orange;
+}
+.program__third-list-item {
+  color: #555;
+}
