@@ -17,6 +17,28 @@ Some border
 Some another border-shell
 ```
 
+`text in the simple shell`
+
+```html
+text in the html shell
+```
+```css
+text in the css shell
+```
+```js
+text in the js shell
+```
+```json
+text in the json shell
+```
+
+ul
+- li
+- li
+  - a
+  - b
+  - c
+
 # parcel-project-template
 
 ## Зависимости
@@ -38,17 +60,6 @@ npm ci
 ```shell
 npm run dev
 ```
-
-`text in the shell`
-
-```css
-text
-```
-
-ul
-- li
-- li
-
 
 Во вкладке браузера перейти по адресу [http://localhost:1234](http://localhost:1234).
 
