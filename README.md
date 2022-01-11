@@ -17,7 +17,7 @@ Some border
 Some another border-shell
 ```
 
-`text in the simple shell`
+text in the `simple shell`
 
 ```html
 text in the html shell
