@@ -1,3 +1,22 @@
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+####### Header 7
+
+This is [Link on Google](https://www.google.com/)
+This is another [Link on Google] (https://www.google.com/)
+
+```
+Some border
+```
+
+```shell
+Some another border-shell
+```
+
 # parcel-project-template
 
 ## Зависимости
@@ -19,6 +38,17 @@ npm ci
 ```shell
 npm run dev
 ```
+
+`text in the shell`
+
+```css
+text
+```
+
+ul
+- li
+- li
+
 
 Во вкладке браузера перейти по адресу [http://localhost:1234](http://localhost:1234).
 
